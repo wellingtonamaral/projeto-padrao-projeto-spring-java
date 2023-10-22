@@ -47,5 +47,6 @@ Testar os dados do JSON:
 ```
     localhost:8080/swagger-ui.html
   ou
-    127.0.0.1:8080/swagguer-ui.html
+    127.0.0.1:8080/swagger-ui.html
 ```
+![swagger](https://github.com/wellingtonamaral/projeto-padrao-projeto-spring-java/assets/31280586/95da6b81-76c9-40cd-9de5-f16fa12117ba)
